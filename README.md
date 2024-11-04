@@ -22,4 +22,4 @@ AI voice Python is a simple and intuitive text-to-speech application built with 
 1. Clone the repository to your local machine:
 
    ```bash
-
+git clone https://github.com/nocamin/AI-TTS.git
