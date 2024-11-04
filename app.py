@@ -5,8 +5,8 @@ import os
 # AWS Polly client initialization
 polly_client = boto3.client(
     'polly',
-    aws_access_key_id='AKIASE5KQ2DNWH43G5EM',
-    aws_secret_access_key='p6ylEwYXjPKfK6CPOtK9yVMdcYKg3pW3GBZJjARa',
+    aws_access_key_id='your-access-key',
+    aws_secret_access_key='your-secret-access-key',
     region_name='us-east-1'  # Choose your preferred region
 )
 
